@@ -56,7 +56,7 @@ of re-takes/re-submissions that determines the course grade.
 |---------------|------------------|:---------------------------------------:|:----------------------------------------:|:-----------------------------------------:|
 | Readings (15)<br/><br/>Labs (23)<br/><br/>Regrades | Complete (> 85%)<br/><br/>Complete (> 85%)<br/><br/>Use no more than | All but 2<br/><br/>All but 2<br/><br/>5 | All but 3<br/><br/>All but 4<br/><br/>6  | All but 4<br/> <br/>All but 6<br/><br/>7  | 
 |Exams (4)<br/><br/>Exam Retakes | Complete (> 85%)<br/><br/>Use no more than |             All<br/><br/>2              |           All but 1<br/><br/>3           |           All but 2<br/><br/>4            |
-|Final Exam | Score at least |                 >= 90%                  |                  >= 80%                  |                  >= 70%                   |
+|Final Exam | Score at least |                 90%                  |                  80%                  |                  70%                   |
 
 ## See Also
 
