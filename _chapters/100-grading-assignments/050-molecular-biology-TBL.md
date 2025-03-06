@@ -1,6 +1,6 @@
 ---
 title: Team-Based Learning Exercises for Hands-on Courses
-slug: molecular-biology-TBL
+slug: molecular-biology-tbl
 ---
 ## Intent
 
