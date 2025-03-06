@@ -15,7 +15,7 @@ A traditional grading system based on a 100-point scale provides 60 ways to fail
 
 ## Solution
 
-When a clear differentiation is made between formative assessments – activities designed to promote learning – and summative assessments – activities designed to assess a student’s skills and knowledge at a particular point in time – then a proper weighting scheme between the two types of assessment is beneficial.  
+When a clear differentiation is made between *formative* assessments (activities designed to promote learning) and *summative* assessments (activities designed to assess a student’s skills and knowledge at a particular point in time), then a proper weighting scheme between the two types of assessment is beneficial.  
 
 If formative assessments are considered learning activities, and thus are repeatable and have flexible deadlines, then students have ample opportunities to earn 100% of the points on these activities.  Weighting formative assessments as 60% of the final grade allows all students the opportunity to earn a “passing” grade through hard work and perseverance.  
 
@@ -31,7 +31,7 @@ This technique is particularly applicable in environments where instructors wish
 
 Create an overall grading scheme where at least 60% of the final grade comes from formative assessments (which should have flexible deadlines and opportunities for multiple submissions) [See Formative Assessments are for Learning].  
 
-Balance the remaining 40% among summative assessments.
+Allocate the remaining 40% among summative assessments.
 
  
 
