@@ -32,11 +32,11 @@ It can also be implemented in STEM gatekeeping courses, where grading can impact
 
 Tradeoffs to consider:
 
-Administrative and Logistical Complexity: Implementing mastery grading or eliminating curves may require substantial restructuring of assessment methods, additional faculty training, and increased coordination across sections.
+**Administrative and Logistical Complexity:** Implementing mastery grading or eliminating curves may require substantial restructuring of assessment methods, additional faculty training, and increased coordination across sections.
 
-Increased Faculty Workload: Mastery grading and formative assessments may require more time from instructors for individualized feedback and designing multiple assessment opportunities.
+**Increased Faculty Workload:** Mastery grading and formative assessments may require more time from instructors for individualized feedback and designing multiple assessment opportunities.
 
-Scaling Challenges: These reforms may be easier to implement in smaller classes but harder to scale effectively in very large courses with limited instructional resources.
+**Scaling Challenges:** These reforms may be easier to implement in smaller classes but harder to scale effectively in very large courses with limited instructional resources.
 
 
 ## How to Implement
