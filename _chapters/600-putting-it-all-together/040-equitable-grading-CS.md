@@ -1,6 +1,6 @@
 ---
 title: Integrating Equitable Grading Practices in Computer Science Courses
-slug: equitable-grading-CS
+slug: equitable-grading-cs
 ---
 ## Intent
 
