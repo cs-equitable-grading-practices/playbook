@@ -1,6 +1,6 @@
 ---
 title: Automatic Grading System for first year Computer Science Courses
-slug: autograding-CS
+slug: autograding-cs
 ---
 ## Intent
 
