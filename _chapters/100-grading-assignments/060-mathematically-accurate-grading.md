@@ -25,7 +25,7 @@ There are multiple problems with this method of assessing student learning:
 
 To make grades more mathematically accurate, and more reflective of student learning, we can do the following:
 
-1. **Use a different indicator for missing work.** Reserve scores of 0 for instances where the student completed an assessment but did not answer any items on that assessment correctly. Use a different score -- incomplete, for instance -- to indicate that an assessment has not been completed. Alternately, you can not enter any score until a student completes an assessment.
+1. **Use a different indicator for missing work.** Reserve scores of 0 for instances where the student completed an assessment but did not answer any items on that assessment correctly. Use a different score -- incomplete, for instance -- to indicate that an assessment has not been completed. Alternately, you could choose not to enter any score until a student completes an assessment.
 
 2. **Use a smaller grading scale.** Instead of using the 0-100 scale, use a 0-4 scale, with higher scores indicating higher levels of proficiency. Such coarse scales are cognitively easier for people to grasp. Averaging of scores, should one choose to do so, is more accurately reflective of student learning: low scores don't "tank" a student's score as with larger scales. The 0-4 scale weighs success more heavily than failure, which is more motivating to students.
 
@@ -49,7 +49,7 @@ This play is very flexible, and can be used in many different contexts. It works
 
 Instructors who use course management systems may find it challenging to implement some aspects of mathematically-accurate grading. Many course management systems are designed with the assumption that traditional, 0-100, A-F scales will be used, and that scores will be averaged together to calculate final grades. Thus, instructors may need some creativity to realize some aspects of this play.
 
-Many course management systems allow instructors to define their own scales, and/or provide scales other than the 0-100 scale. Some systems convert these to percentages, anyway, which might freak out students (e.g., a score of "proficient" might appear as 75%, even though it indicates success). In these cases, instructors may need to remind students to ignore the calculated scores. 
+Many course management systems allow instructors to define their own scales, and/or provide scales other than the 0-100 scale. Some systems convert these to percentages, anyway, which might unsettle students (e.g., a score of "proficient" might appear as 75%, even though it indicates success). In these cases, instructors may need to remind students to ignore the calculated scores. 
 
 Some instructors provide students with individual grade sheets, allowing students to self-track their grades. These sheets can be as simple as a paper spreadsheet, or as complex as a fill-in spreadsheet that automatically calculates a student's grade when new scores are entered. This strategy gets around the limitations of course management systems, and allows students to have a clearer idea of their progress in the course. The downside is that it relies on students to keep track of their grades, something not all students may want to do (or have the executive functioning to be able to consistently do).
 
