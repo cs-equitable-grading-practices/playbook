@@ -49,7 +49,8 @@ Here is the process for contributing a new play to this book:
    at `_chapters/900-how-to-contribute/200-play-template.md`.
 3. Fill in the content! Place your play's **name** in the "title:" field
    at the top of the file in the metadata section. Also, add a "slug", or
-   the human-readable URL-style page name for this play. We recommend just
+   the human-readable URL-style page name for this play. This must be unique,
+   since it will be used as a unique way to link to the play. We recommend just
    lower-casing the name, with spaces replaced by dashes and special characters
    removed. Then see the explanations below for what you should
    put in each section in the template.
@@ -59,7 +60,8 @@ Here is the process for contributing a new play to this book:
    basic format of `ddd-slug.md`, where `ddd` is a number, `slug` is the
    slug you've entered in the page's metadata, and `.md` is the file extension.
    Just look at the existing files already in that directory, find the highest
-   number, and add 10 so your new play will go at the end numerically.
+   number, and add 10 so your new play will go at the end numerically. If
+   there are no other plays currently in the incubator, number yours 010.
 5. Plays added in the {% include chapter-link.html slug="incubator" %} will
    be reviewed and moved to an appropriate chapter.
 6. Check it in and create a pull request to send your contribution to github
