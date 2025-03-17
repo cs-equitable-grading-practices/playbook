@@ -22,13 +22,10 @@ The _continua model of a guide to making judgments_, or GTMJ for short, improves
 3. **Nested standards descriptors**. Each descriptor higher on the continuum implicitly contains all of the previous descriptors. This way, instructors need only specify the key differences between standards descriptors. 
 4. **Standards zones**. Standards are depicted as ranges along the continua for each learning outcome / concept being assessed, rather than a discrete set of descriptors pertaining to a particular standard. This means that students do not have to meet all of the descriptors for a standard to meet that standard.
 
-
-**NOTE FROM THE AUTHOR OF THIS PLAY: I really think this could use an illustrated example. There is one in the paper, but I could also make up my own.**
+[Figure 2](https://www.tandfonline.com/doi/pdf/10.1080/14703297.2015.1022200) in the [source paper](https://www.tandfonline.com/doi/pdf/10.1080/14703297.2015.1022200) illustrates how the continuous rubric works in practice using an education course as an example.
 
 
 ## Applicability
-
-**Caveat: the source does not describe the use of the GTMJ in a computer science or STEM classroom, so I am extrapolating from what was presented in the paper.**
 
 The GTMJ would be best suited in a _specifications grading_ context, where assignments typically touch on multiple learning outcomes or concepts, or a _standards-based grading_ context. It provides a more visual description of student achievement on each objective: students can clearly see how far up the continuum their work lands, and how much further they need to go to achieve a particular standard. It may also work well in medium-sized classes, because it can streamline some of the judgment calls that instructors typically make with matrix-style rubrics.
 
@@ -40,8 +37,7 @@ Rather than trying to capture all of the elements of a particular standards leve
 
 ## See Also
 
-_List any other related plays here as a bullet list of chapter links.
-Then remove this text._
+N/A
 
 
 ## Source
@@ -53,8 +49,8 @@ Described by: Amy Csizmar Dalal, adalal@carleton.edu
 
 ## References
 
-_Insert references to publications or web pages describing, evaluating, or
-sharing experiences with this technique. Then remove this text._
+_References to publications or web pages describing, evaluating, or
+sharing experiences with this technique._
 
 
 ## Community Discussion
