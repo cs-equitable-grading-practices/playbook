@@ -61,3 +61,5 @@ posting comments below.
 See {% include chapter-link.html slug="join-discussions" %} for details.
 
 * Insert a comment here.
+
+I had some difficulty finding the source article that included Figure 2 (it was not available through my institution). I found it through EBSCO using my institution - https://openurl.ebsco.com/EPDB%3Agcd%3A12%3A9432796/detailv2?sid=ebsco%3Aplink%3Ascholar&id=ebsco%3Agcd%3A112358532&crl.

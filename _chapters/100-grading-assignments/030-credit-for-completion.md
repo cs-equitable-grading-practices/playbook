@@ -38,3 +38,5 @@ posting comments below.
 See {% include chapter-link.html slug="join-discussions" %} for details.
 
 * Insert a comment here.
+
+This play may be more suitable for formative assessments like chapter quizzes, in-class activities and discussions, and other low-stakes grading assignments.

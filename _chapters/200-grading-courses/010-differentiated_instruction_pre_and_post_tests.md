@@ -61,3 +61,5 @@ posting comments below.
 See {% include chapter-link.html slug="join-discussions" %} for details.
 
 * Insert a comment here.
+
+There are a few challenges with what has been presented. Pre-tests are reminiscent of  placement exams, and depending on the instructor, the test, and the culture within the department, they might be used to weed students out or students may perceive them as such (my former department chair, now dean, has argued against them). Providing individualized instruction is not scalable for large classes like intro CS courses that are prerequisites for advancing in the degree. An alternative might be refresher course modules that pre-test as described above for knowledge/learning gaps that can bring students up to speed, then identifying via post-testing any concepts that are still not mastered. With a good test implementation, a student would only need to retake sections in which they did poorly. Ideally, students signed up for a course could take these refresher course modules before the start of the course. It might also be used as a positive indicator if a final grade is borderline.
