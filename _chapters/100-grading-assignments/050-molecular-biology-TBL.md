@@ -59,3 +59,11 @@ posting comments below.
 See {% include chapter-link.html slug="join-discussions" %} for details.
 
 * Insert a comment here.
+
+The Affinity Research Group Model developed by the Computing Alliance of Hispanic Serving Institutions (CAHSI) cites five basic elements critical to team-based learning:
+1.	Positive interdependence
+2.	Face-to-face promotive interaction
+3.	Individual accountability
+4.	Group and professional skills
+5.	Group processing
+An example three-person team activity is to perform a task (counting triangles in a drawings) individually and then as a team (two different drawings of course), and compare results. In the team activity, each team member has a role - Recorder: Documents process, Checker of Understanding: Ensures all members understand, Participation Checker: Ensures that all members are actively participating. Roles get rotated and team members also rotate on different assignments so as to mix up the teams as appropriate. See Kephart, Villa, Gates, and Roach (2008) – “The Affinity Research Group Model: Creating and Maintaining Dynamic, Productive, and Inclusive Research Groups”.

@@ -54,3 +54,5 @@ posting comments below.
 See {% include chapter-link.html slug="join-discussions" %} for details.
 
 * Insert a comment here.
+
+I agree with solutions provided. I would add the use of academic controversy for current events and real-world problems (use of surveillance/face recognition, generation of deep-fake videos, social media harm, etc.) to build ethical leadership and advocacy skills. See Alvidrez et al (2024) “Using Academic Controversy in a Computer Science Undergraduate Leadership Course: An Effective Approach to Examine Ethical Issues in Computer Science”, 2023 ASEE Annual Conference & Exposition.

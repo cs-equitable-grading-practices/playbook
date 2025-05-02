@@ -88,3 +88,5 @@ posting comments below.
 See {% include chapter-link.html slug="join-discussions" %} for details.
 
 * Insert a comment here.
+
+Are there are folks who support and use specs grading but are not bought into grading for equity? It seems like grading for equity incorporates many aspects of specs grading (using Talbert’s EMRN rubric or the GTMJ rubric introduced earlier). When combined with low-stakes assignments and regrading with SMART feedback whenever possible, I posit that grading for equity would generally result in stronger mastery than specs grading alone. It may be more challenging to implement and teach specs grading in a course that has been traditionally graded, especially if that course is a pre-requisite for continuing in the degree program or is an upper-level course required for graduation. If individual assignments are a binary pass/fail until mastery, student perceptions of success in the course may be impacted, so an instructor will have to continually socialize the message about mastery vs. grades. It also carries a risk for junior faculty whose tenure decision may depend on student evaluations.

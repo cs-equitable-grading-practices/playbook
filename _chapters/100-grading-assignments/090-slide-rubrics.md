@@ -60,3 +60,5 @@ posting comments below.
 See {% include chapter-link.html slug="join-discussions" %} for details.
 
 * Insert a comment here.
+
+Most struggling students will only be motivated by moving up on a rubric – they will be demotivated by moving down on a rubric, especially if the assignment rubric is not well defined. Limiting how many bands a student could move seems biased if they truly make big improvments. It could be used instead as extra points used if a student is borderline for the final grade, and thus you might consider moving this play to the Grading Courses section. What is of real value in the slide rubrics play is feedback that is SMART and encourages them to try for the next band or two up (specific, measurable, actionable, relevant, and timely).

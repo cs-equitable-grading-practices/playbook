@@ -67,3 +67,4 @@ See {% include chapter-link.html slug="join-discussions" %} for details.
 
 * Insert a comment here.
 
+Suggestion: Another approach to peer grading might be anonymous posting of all assignments, allowing students to see a variety of work and picking 3 assignments to give feedback on, perhaps one in each area (High/Distinction, Credit/Pass, and Fail). This gives a student a broader scope of work.

@@ -66,3 +66,5 @@ posting comments below.
 See {% include chapter-link.html slug="join-discussions" %} for details.
 
 * Insert a comment here.
+
+I’ve stated this consistently throughout this playbook that SMART feedback, provided in an encouraging way, is key to student motivation, belonging, confidence, and competence. I also believe it is critical to share multiple career pathways so that students understand that they can have a successful career in computing besides the obvious coding ones. There are many needed skills besides coding proficiency, and I do my best to educate them on those that are a better fit for their skills, ethics, and interests. I also discuss what kind of company culture they want to be a part of so they choose employers and roles wisely.
