@@ -1,5 +1,5 @@
 ---
-title: Grading group work
+title: Grading group work individually
 slug: grading-group-work
 ---
 ## Intent

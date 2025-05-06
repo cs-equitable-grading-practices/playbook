@@ -10,7 +10,7 @@ Improve upon existing matrix-style rubrics with a type of rubric that indicates 
 
 ## Problem
 
-Rubrics are commonly used to assess student work. They typically appear as matrices of standards descriptions, e.g. what "proficient" vs. "not yet" work looks like for a learning objective. It is often difficult to succinctly and precisely describe a standard so that it is unambiguous. Even the best-described standards leave room for judgment calls: for instance, how do you evaluate a student who's achieved most, but not all, of the descriptors for a particular standard? When an assignment assesses multiple concepts, some concepts may require fewer "levels" or descriptors than others, leading to pressure on instructors to fill the boxes with less meaningful or less applicable descriptors. These factors reduce the utility of rubrics as the time-saving, streamlining grading tools they were designed to be.
+Rubrics are commonly used to assess student work. They typically appear as matrices of standards descriptions, e.g. what "proficient" vs. "not yet" work looks like for a learning objective. It is often difficult to succinctly and precisely describe a grading standard unambiguously. Even the best-described standards leave room for judgment calls: for instance, how do you evaluate a student who's achieved most, but not all, of the descriptors for a particular standard? When an assignment assesses multiple concepts, some concepts may require fewer "levels" or descriptors than others, leading to pressure on instructors to fill the boxes with less meaningful or less applicable descriptors. These factors reduce the utility of rubrics as the time-saving, streamlining grading tools they were designed to be.
 
 
 ## Solution
