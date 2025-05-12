@@ -50,3 +50,5 @@ posting comments below.
 See {% include chapter-link.html slug="join-discussions" %} for details.
 
 * Insert a comment here.
+
+I’m not a fan of pre-course interviews, not only because of the time factor required to interview all students, but primarily because there is tremendous opportunity to introduce bias against a student’s perceived abilities that may persist throughout the course. Whuile we might know how we would conduct the interviews, depending on the department culture and implementation, they could be harmful. Interviews, like whiteboarding exercises (which are performance exercises and also very ableist!), can be highly subjective, and under stereotype threat, marginalized students may underperform in these interviews. Pre-course refresher assignments and activities to gain or regain learning loss are preferred.

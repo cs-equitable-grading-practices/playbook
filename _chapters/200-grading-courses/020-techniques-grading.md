@@ -76,3 +76,5 @@ posting comments below.
 See {% include chapter-link.html slug="join-discussions" %} for details.
 
 * Insert a comment here
+
+As a mastery-based approach for proof-intensive courses, this play would be optimally supported by lots and lots of examples and practice exercises that do NOT impact a student’s grade, while allowing them to get comfortable with the notation. For even stronger mastery, providing tools that support the ability to visualize the problem (mapping an unknown complexity problem to an NP-complete known problem, visualizing combinatorics problems, or analyzing program complexity).

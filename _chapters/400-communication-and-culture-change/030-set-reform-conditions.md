@@ -63,3 +63,5 @@ posting comments below.
 See {% include chapter-link.html slug="join-discussions" %} for details.
 
 * Insert a comment here.
+
+My recommended approach to large-scale reform within a department or institution is through the use of EGP pilots for courses that have historically seen high DFW rates, especially in first and second year students. Within my own department, I have recommended that the department invest in curriculum and instruction redesign of courses that are typically assigned to new and/or junior faculty by incorporating EGP practices. New/junior faculty are typically given an existing course in Canvas that they may minimally modify their first semester teaching. Instead, by setting them up with the same course that has already been redesigned for EGP, not only do they have a better chance of retaining and progressing students, they also have been given EGP best practices that they can incorporate into any courses they design on their own. Ideally a department would staff a curriculum designer to create these Canvas development courses in collaboration with faculty whose research areas best match the course curriculum. 

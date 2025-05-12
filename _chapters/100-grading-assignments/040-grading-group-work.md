@@ -81,3 +81,5 @@ posting comments below.
 See {% include chapter-link.html slug="join-discussions" %} for details.
 
 * Insert a comment here.
+
+The challenge with this play is that with a traditional grading scheme, students may not be as likely to collaborate and share information if there is a limit on the number of students that get the top grades. In an A’s for All environment proposed by Dan Garcia and Armando Fox, this challenge is unlikely to apply. See Hayek et al, (2015). Grading Hampers Cooperative Information Sharing in Group Problem Solving“; in Social Psychology:Vol. 46(3):121–131, DOI: 10.1027/1864-9335/a000232.

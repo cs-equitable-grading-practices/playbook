@@ -53,3 +53,5 @@ posting comments below.
 See {% include chapter-link.html slug="join-discussions" %} for details.
 
 * Insert a comment here.
+
+If one works in a department and culture that is holding onto traditional grading with a death grip, it would be difficult to contemplate piloting an ungraded course. It would be wiser to move along the spectrum from traditional grading to specs grading to grading for equity and then possibly ungrading for specific courses or assignments. This play might work best in a Senior Project/Capstone course with the socialized message that students need to learn how to assess their own work, since the technical workplace doesn’t give grades. Oftentimes new hires will be left completely on their own to navigate the hidden organizational culture for job opportunities, promotions, and alternate career paths that have been historically highly competitive and often lacking in mentorship, especially for marginalized employees.
